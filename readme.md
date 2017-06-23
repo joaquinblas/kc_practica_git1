@@ -75,7 +75,7 @@ Tenemos dos opciones:
 
 `git log`
 commit 75be8bae6c202f50a8a9b97f9c6a8c433b6cb0d5
-Author: Joaquín Blas <xxx@gmail.com>
+Author: 
 Date:   Fri Jun 23 12:11:06 2017 +0200
 
     Creo git-nuestro
